@@ -1,0 +1,8 @@
+# Ignore artifacts:
+.next
+.eslintrc.json
+
+build
+coverage
+node_modules
+tsconfig.json
